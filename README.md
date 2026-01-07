@@ -1,6 +1,8 @@
-# PDE-Dx: A Diagnostic Benchmark for LLMs on PDE Reasoning
+<p align="center">
+  <img src="pde-dx-banner.png" alt="PDE-Dx: A Diagnostic Benchmark" width="600"/>
+</p>
 
-**PDE-Dx** is an open-source benchmark designed to rigorously test large language models (LLMs) on partial differential equation (PDE)-related tasks. Inspired by diagnostic datasets in scientific machine learning, this benchmark focuses not on abstract difficulty, but on probing whether LLMs truly understand the mathematical structure, solver planning, and physical context behind PDEs.
+**PDE-Dx** is an open-source benchmark designed to rigorously test LLMs on partial differential equation (PDE)-related tasks. Inspired by diagnostic datasets in scientific machine learning, this benchmark focuses not on abstract difficulty, but on probing whether LLMs truly understand the mathematical structure, solver planning, and physical context behind PDEs.
 
 Rather than evaluating models only on code correctness or surface-level syntax, PDE-Dx introduces challenging yet practical tasks that expose how LLMs reason about:
 
