@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="pde-dx-banner.png" alt="PDE-Dx: A Diagnostic Benchmark" width="800"/>
+<p align="left">
+  <img src="pde-dx-banner.png" alt="PDE-Dx: A Diagnostic Benchmark" width="1000"/>
 </p>
 
 **PDE-Dx** is an open-source benchmark designed to rigorously test LLMs on partial differential equation (PDE)-related tasks. Inspired by diagnostic datasets in scientific machine learning, this benchmark focuses not on abstract difficulty, but on probing whether LLMs truly understand the mathematical structure, solver planning, and physical context behind PDEs.
